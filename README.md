@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jiarui Huang 👋
 
-<!--
-**garyhuang710/garyhuang710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student at UTT (Informatique et Systèmes d’Information)
 
-Here are some ideas to get you started:
+💻 Interested in software development and web technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Java, C++, PHP, JavaScript  
+- SQL, MySQL  
+- HTML, CSS  
+- Linux, Docker, Git  
+
+## 📂 Projects
+- Java card game (OOP, design patterns)  
+- Hiking database (MySQL)  
+- Web application (PHP, HTML/CSS)  
+
+## 📫 Contact
+- Email: jia_rui.huang@utt.fr  
+- LinkedIn: linkedin.com/in/jiarui-huang  
